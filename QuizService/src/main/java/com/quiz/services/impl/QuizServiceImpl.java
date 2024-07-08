@@ -1,4 +1,4 @@
-package com.quiz.service.impl;
+package com.quiz.services.impl;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 import com.quiz.entities.Quiz;
 import com.quiz.repositories.QuizRepository;
-import com.quiz.service.QuizService;
+import com.quiz.services.QuizService;
 
 @Service
 public class QuizServiceImpl implements QuizService {

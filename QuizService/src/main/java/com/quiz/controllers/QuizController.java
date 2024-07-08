@@ -3,7 +3,7 @@ package com.quiz.controllers;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.quiz.entities.Quiz;
-import com.quiz.service.QuizService;
+import com.quiz.services.QuizService;
 
 import java.util.List;
 

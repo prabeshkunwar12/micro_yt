@@ -1,4 +1,4 @@
-package com.quiz.service;
+package com.quiz.services;
 
 import java.util.List;
 
